@@ -1,4 +1,4 @@
-# MAakale Saati
+# Makale Saati
 
 ## Tartıştığımız makalelerden
 
