@@ -24,13 +24,9 @@ Journal of Clinical Pathology 2019;72:663-668.
 
 -   Tecrübe aktarımı
 
--   Dökümanlar
-
 -   Laboratuvar açısından
 
 -   Patologlar açısından
-
--   Risk değerlendirilmesi
 
 -   SOP (standart uygulamalar ve dökümanları)
 
@@ -96,160 +92,163 @@ Denetimde şu noktaların dökümanları ve delilleri hazır olmalı
 
 ## Değişim Kontrolü Sırasındaki Anahtar Konular {.scrollable}
 
+| Genel Öneriler                                                                                    |
+|------------------------------------------------------------------------|
+| Değişiklik önerileri yönetimce tartışılmalı ve karara bağlanmalı. Klinik etki de dikkate alınmalı |
+| Değişimin öncüsü olarak bir kişi belirlenmeli                                                     |
+| Değişim konusunda mutabık olunmalı                                                                |
+| Değişikliklerin ne zaman rutine geçeceği herkesçe bilinmeli                                       |
 
-| Genel Öneriler  |
-|------|
-|Değişiklik önerileri yönetimce tartışılmalı ve karara bağlanmalı. Klinik etki de dikkate alınmalı|
-| Değişimin öncüsü olarak bir kişi belirlenmeli | 
-| Değişim konusunda mutabık olunmalı |
-|Değişikliklerin ne zaman rutine geçeceği herkesçe bilinmeli|
+| Sağlık ve Güvenlik                                                                           |
+|------------------------------------------------------------------------|
+| Dijital patolojiye geçilmeden önce tüm sağlık ve güvenlik kontrolleri yapılmalı              |
+| Tarayıcının laboratuvar içindeki konumu belirlenmeli ve uygun şekilde değerlendirilmeli      |
+| Ekran kullanımın risk değerlendirilmesi kulanıcılar eğitime/validasyona başlamadan yapılmalı |
 
-|Sağlık ve Güvenlik|
-|------|
-|Dijital patolojiye geçilmeden önce tüm sağlık ve güvenlik kontrolleri yapılmalı|
-|Tarayıcının laboratuvar içindeki konumu belirlenmeli ve uygun şekilde değerlendirilmeli|
-|Ekran kullanımın risk değerlendirilmesi kulanıcılar eğitime/validasyona başlamadan yapılmalı|
+| Tespit ve Doğrulama                                                                       |
+|------------------------------------------------------------------------|
+| Tarayıcı performansı rutin şartlarda değerlendirilmeli ve firma verileri ile kıyaslanmalı |
+| Değerlendirme verilerinin saklanabileceği uygun bir elektronik ortam belirlenmeli         |
 
-|Tespit ve Doğrulama|
-|------|
-|Tarayıcı performansı rutin şartlarda değerlendirilmeli ve firma verileri ile kıyaslanmalı|
-|Değerlendirme verilerinin saklanabileceği uygun bir elektronik ortam belirlenmeli|
+| Dış kalite kontrol                                                    |
+|-----------------------------------------------------------------------|
+| Kalite yöneticisi yapılacak değişiklikler konusunda bilgilendirilmeli |
+| Dış kalite kontrol anlaşma ve şemaları hazırlanmalı                   |
+| Dış kalite yerine iç kalite de kullanılabilir                         |
 
-|Dış kalite kontrol|
-|------|
-|Kalite yöneticisi yapılacak değişiklikler konusunda bilgilendirilmeli|
-|Dış kalite kontrol anlaşma ve şemaları hazırlanmalı|
-|Dış kalite yerine iç kalite de kullanılabilir|
+| İç kalite kontrol                                                  |
+|--------------------------------------------------------------------|
+| İç kalite kontrollerinin sıklığı ve niteliği belli olmalı          |
+| Kalibrasyon için kullanılan preparat ya da yazılımlar belgelenmeli |
 
-|İç kalite kontrol|
-|------|
-|İç kalite kontrollerinin sıklığı ve niteliği belli olmalı|
-|Kalibrasyon için kullanılan preparat ya da yazılımlar belgelenmeli|
+| Bilgi İşlem                                                                                      |
+|------------------------------------------------------------------------|
+| Yeni bir yazılım alındığında tüm kullanıcıların baştan sona katıldığı deneme testleri yapılmalı  |
+| Laboratuvar yazılımlarında planlanan değişiklikler dijital patoloji rutine geçmeden tamamlanmalı |
 
+| Prosedürler                                                                                                       |
+|------------------------------------------------------------------------|
+| Tüm standart uygulamalar yazılı olmalı ve kalite yönetim sisteminden erişilebilir olmalı                          |
+| Tüm eğitim ve yeterlilik kayıtları standart uygulamalara göre kaydedilmeli ve kalite yönetim sistemine yüklenmeli |
 
-|Bilgi İşlem|
-|------|
-|Yeni bir yazılım alındığında tüm kullanıcıların baştan sona katıldığı deneme testleri yapılmalı|
-|Laboratuvar yazılımlarında planlanan değişiklikler dijital patoloji rutine geçmeden tamamlanmalı|
+| Eğitim                                                                                                                                 |
+|------------------------------------------------------------------------|
+| Tüm çalışanlar dijital patolojinin laboratuvarda nasıl yer alacağı ve nasıl kullanılacağı konusunda eğitim almalı                      |
+| Yetkili kullanıcılar (admin,super user) belirlenmeli ve bu kişiler sorunlarla ilgilenmek ve çözmek için detaylı eğitime tabi tutulmalı |
 
-|Prosedürler|
-|------|
-|Tüm standart uygulamalar yazılı olmalı ve kalite yönetim sisteminden erişilebilir olmalı
-|Tüm eğitim ve yeterlilik kayıtları standart uygulamalara göre kaydedilmeli ve kalite yönetim sistemine yüklenmeli|
-
-|Eğitim|
-|------|
-|Tüm çalışanlar dijital patolojinin laboratuvarda nasıl yer alacağı ve nasıl kullanılacağı konusunda eğitim almalı|
-|Yetkili kullanıcılar (admin,super user) belirlenmeli ve bu kişiler sorunlarla ilgilenmek ve çözmek için detaylı eğitime tabi tutulmalı|
-
-|İletişim|
-|------|
-|Günlük pratikteki değişiklikler tüm laboratuvara duyurulmalı|
-|Kullanıcıya olan etkileri, düzenleme süreci ve zamanı konusunda bilgilendirilmeli |
-
+| İletişim                                                                          |
+|------------------------------------------------------------------------|
+| Günlük pratikteki değişiklikler tüm laboratuvara duyurulmalı                      |
+| Kullanıcıya olan etkileri, düzenleme süreci ve zamanı konusunda bilgilendirilmeli |
 
 ## Risk Değerlendirmesi
 
-Sağlık ve güvenlik açısından değerlendirme yapılmalı:
-- Ekipmanlar (tarayıcı, monitör)
-- İş akışı
-- Ekipmanların laboratuvarda yerleşimi ve personelin aletleri güvenli bir şekilde kullanması
-- Ekranların düzgün ayarlandığındna emin olunmalı ^[Ergonomi, ışık ayarı, ekran kullanımı, mouse kullanımı] ^[ayarlamalar tanısal yeterliliği bozmayacak şekilde ve kullanıcı sağlığını bozmayacak şekilde olmalı] ^[Ekran yeterlilik testi, minimum konfigürasyon]
+Sağlık ve güvenlik açısından değerlendirme yapılmalı: - Ekipmanlar (tarayıcı, monitör) - İş akışı - Ekipmanların laboratuvarda yerleşimi ve personelin aletleri güvenli bir şekilde kullanması - Ekranların düzgün ayarlandığındna emin olunmalı [^2] [^3] [^4]
 
+[^2]: Ergonomi, ışık ayarı, ekran kullanımı, mouse kullanımı
 
-## Doğrulama ve Kabul  {.scrollable}
+[^3]: ayarlamalar tanısal yeterliliği bozmayacak şekilde ve kullanıcı sağlığını bozmayacak şekilde olmalı
 
-- Tarayıcı ve yazılımların yeterli şekilde testten geçirildiğinin gösterilmesi
-  - amaca yönelik kullanılabilir
-  - firmanın belirttiği nitelikleri mevcut
+[^4]: Ekran yeterlilik testi, minimum konfigürasyon
 
+## Doğrulama ve Kabul {.scrollable}
 
-|Donanım|
-|------|
-|Tarayıcının iç aksamı beklendiği gibi çalışıyor mu?|
-|Tarayıcı belirtilen büyüklükte tarama yapabiliyor mu?|
-|Renk skalasındaki değerler (RGB) üreticinin önerdiği değer aralıklarında mı?|
+-   Tarayıcı ve yazılımların yeterli şekilde testten geçirildiğinin gösterilmesi
+    -   amaca yönelik kullanılabilir
+    -   firmanın belirttiği nitelikleri mevcut
 
+| Donanım                                                                      |
+|------------------------------------------------------------------------|
+| Tarayıcının iç aksamı beklendiği gibi çalışıyor mu?                          |
+| Tarayıcı belirtilen büyüklükte tarama yapabiliyor mu?                        |
+| Renk skalasındaki değerler (RGB) üreticinin önerdiği değer aralıklarında mı? |
 
-|Yazılım|
-|------|
-|Görüntüler veritabanına doğru bir şekilde aktarılıyor mu?|
-|Görüntüler açılıp değerlendirilebiliyor mu?|
-|Görüntüleyici ekranı tanı ve kalite açısından yeterli mi?|
-
+| Yazılım                                                   |
+|-----------------------------------------------------------|
+| Görüntüler veritabanına doğru bir şekilde aktarılıyor mu? |
+| Görüntüler açılıp değerlendirilebiliyor mu?               |
+| Görüntüleyici ekranı tanı ve kalite açısından yeterli mi? |
 
 ## Karşılaştırılablirlik
 
-- Eğer birden fazla tarayıcı kullanılıyorsa bu tarayıcılardan elde edilen görüntüler eş tanısal kalitede midir?
-- Bunun tespiti için farklı dokulardan oluşan bir set ile deneme yapılmalıdır.
+-   Eğer birden fazla tarayıcı kullanılıyorsa bu tarayıcılardan elde edilen görüntüler eş tanısal kalitede midir?
 
-- Zemin temiz mi?
-- Görüntü odaklanmış mı?
-- Boyama canlı ve temiz mi?
-- Görünütler farklı tarayıcılarda da karşılaştırılabilir kalitede mi?
-- Ana tanısal özelliklerin değerlendirilmesi açısından tarayıcılar arasında farklılık var mı?
+-   Bunun tespiti için farklı dokulardan oluşan bir set ile deneme yapılmalıdır.
+
+-   Zemin temiz mi?
+
+-   Görüntü odaklanmış mı?
+
+-   Boyama canlı ve temiz mi?
+
+-   Görünütler farklı tarayıcılarda da karşılaştırılabilir kalitede mi?
+
+-   Ana tanısal özelliklerin değerlendirilmesi açısından tarayıcılar arasında farklılık var mı?
 
 ## Tekrarlanabilirlik
 
-- Dijital patoloji yeni olduğundan laboratuvarlar arası karşılaştırma yapmak zor olabilir.
-- Bunun yerine daha önce taranmış ve tanı verilmiş vakalar tekrar taranarak yeniden değerlendirme ve önceki tanı ile karşılaştırma yapılabilir.
-
-
-
-
+-   Dijital patoloji yeni olduğundan laboratuvarlar arası karşılaştırma yapmak zor olabilir.
+-   Bunun yerine daha önce taranmış ve tanı verilmiş vakalar tekrar taranarak yeniden değerlendirme ve önceki tanı ile karşılaştırma yapılabilir.
 
 ## Eğitim ve Yeterlilik
 
-- Tüm dijital patoloji süreçleri, standart uygulamalar kayıt altında olmalı.
-- Laboratuvar personeli bu dökümanlara aşina olmalı ve kolayca ulaşabilmeli
+-   Tüm dijital patoloji süreçleri, standart uygulamalar kayıt altında olmalı.
+-   Laboratuvar personeli bu dökümanlara aşina olmalı ve kolayca ulaşabilmeli
 
-Mesela;
-- Tarayıcı nasıl kullanılır?
-- Görüntü yazılım ve veritabanları nasıl kullanılır?
-- Tarayıcı ve iş akışındaki hatalar nasıl giderilir
-- Tarayıcı bakımı nasıl yapılır?
 
+Mesela;  
+- Tarayıcı nasıl kullanılır?  
+- Görüntü yazılım ve veritabanları nasıl kullanılır?  
+- Tarayıcı ve iş akışındaki hatalar nasıl giderilir?  
+- Tarayıcı bakımı nasıl yapılır?  
 
 
 ## Eğitim ve Yeterlilik 2
 
-- Eğitim dökümanları, kitapçıkları, yeterlilik testleri kayıt altına alınmalı ve periyodik olarka gözden geçirilmeli. 
-- Yeni başlayan tüm kullanıcılara kendi başlarına işleri yürütebileceklerinden emin olabilecekleri şekilde bir eğitim verilmeli.
-- Yazılım ve donanım güncellemeleri ile bu dökümanlar da güncellenmeli. 
-
-
-
-
-
-
-
+-   Eğitim dökümanları, kitapçıkları, yeterlilik testleri kayıt altına alınmalı ve periyodik olarka gözden geçirilmeli.
+-   Yeni başlayan tüm kullanıcılara kendi başlarına işleri yürütebileceklerinden emin olabilecekleri şekilde bir eğitim verilmeli.
+-   Yazılım ve donanım güncellemeleri ile bu dökümanlar da güncellenmeli.
 
 ## Ölçümlerdeki Belirsizlik
 
-- Dijital görüntülerde ölçüm yapılıyorsa bunun için kalibre edilmiş prepratlar ile karşılaştırma yapılmalı. ^[Bende bir kalibrasyon preparatı var. Onu tarayıp ölçüm yapacağım]
+-   Dijital görüntülerde ölçüm yapılıyorsa bunun için kalibre edilmiş prepratlar ile karşılaştırma yapılmalı. [^5]
 
-- Dijital ölçümlerin (cerrahi sınıra uzaklık, Breslow gibi) patologlarsa doğru yapılmasını sağlamak için patologlara, belli bir vaka grubunda, belli periyotlarla, mikroskop ve dijital ölçümler yaptırılmalı. Gözlemciler arası ve gözlemci içi farklılıklar takip edilmelidir.
+-   Dijital ölçümlerin (cerrahi sınıra uzaklık, Breslow gibi) patologlarsa doğru yapılmasını sağlamak için patologlara, belli bir vaka grubunda, belli periyotlarla, mikroskop ve dijital ölçümler yaptırılmalı. Gözlemciler arası ve gözlemci içi farklılıklar takip edilmelidir.
 
-
-
+[^5]: Bende bir kalibrasyon preparatı var. Onu tarayıp ölçüm yapacağım
 
 # Klinik ve Tanı İtibariyle Değerlendirme
 
-
 ## Validasyon ve Eğitim
 
+Anlamlı bir eğitim ve validasyon sonrası: - Patologlar kendi kaabiliyet ve sınırlarının farkında olur - Patologlar yazılım ve donanıma aşinadır. Performans sorunlarını farkedebilir ve iletebilirler. - Laboratuvarda dijital patoloji sistemi konusunda tüm departmanda ortak bir anlayış ve bilinç gelişir. - Laboratuvar, dijital patolojiyi kullanarak çıktı, iş akışı ve iş ortamını geliştirecek yeni yöntemleri geliştirebilir.
 
+## Validasyon
+
+RCPath göre validasyon süreci: - bireyseldir - gerçek rutin şartlarında yapılır - iç ve dış gözlemcileri tatmin edecek nitelikte olmalıdır - klinik etkinliğin sağlanabildiği kalitede olmalıdır
+
+## Validasyon 2
+
+![](./img/RCPath-validation.png)
+
+## Validasyon 3
+
+-   Validasyon metodu ne olursa olsun patolog bunu izah edebilmeli.
+-   Kendi limitlerini ve zorlandığı durumlarda ne yaptığını söyleyebilmeli.
+    -   "displazide zorlanıyorum, Barrett şüpheli vakalarda mutalak cama da bakarım"
+    -   "mikroorganizma şüphem varsa mutlaka özel boyalara mikroskopta bakarım"
 
 ## Patologları akreditasyona hazırlamak
 
+Patologların kendi dökümanlarına erişimi olmalı. - Masaüstündeki bir kısayolla ulaşabilmeli. - Kendi eğitim dökümanları - Kendi validasyon dökümanları - Gerekli standart uygulamalar - Yazılımlar için kılavuzlar
 
+## Patologları akreditasyona hazırlamak 2
 
-
-
-
+Patologlar denetimciye: - dijital patoloji ile bir vakayı nasıl rapor ettiğini gösterebilmeli - dijital preparattaki sorunları nasıl tespit ettiğni ve bu sorunları nasıl çözdüğünü gösterebilmeli - "odak sorunu olan bir vakayı nasıl tespit ediyori bu durumda ne yapıyor" - "yeniden mi taratıyor, cam mı istiyor" - validasyon sürecindeki deneyimlerini ve profesyonel gelişim süreçlerini anlatabilmelidir. - dijital raporlama sürecini nasıl sağlıklı yürüttüğünü anlatabilmelidir - gerekli dökümanlardan haberdar olduğunu ve ihtiyaç halinde bunlara nasıl ulaşabildiğini göstermelidir. - görüntülerle ilgili geri bildirimi nasıl yaptığını gösterebilmelidir. - Suboptimal görüntüler tanıya engel olsun olmasın geri bildirim ile laboratuvara iletilmelidir. - ekran risk değerlendirmesini nasıl yaptığını gösterebilmelidir - validasyon döküman/sertifikası - validasyon/eğitim için katıldığı toplantıların belgeleri - Özet validasyon istatistikleri
 
 ## Akreditasyon sonrasında izlem
 
-
-
-
+-   Akredite olduk diye hemen boşlamayın
+-   Tarama sorunlarını (artefakt, odaklanmmaış, ...) kaydetmeye devam edin
+-   Cam ihtiyacının yüzdesini tespite devam edin
+-   arşivden rastgele seçilen vakaların yeniden değerlendirilmesi (6 ay, yıllık)
