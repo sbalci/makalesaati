@@ -1,7 +1,9 @@
 ---
 title: "Maintaining quality diagnosis with digital pathology: a practical guide to ISO 15189 accreditation"
 author: Williams BJ, Knowles C, Treanor D
-format: revealjs
+format: 
+  revealjs:
+    scrollable: true
 editor: visual
 ---
 
@@ -143,7 +145,12 @@ Denetimde şu noktaların dökümanları ve delilleri hazır olmalı
 
 ## Risk Değerlendirmesi
 
-Sağlık ve güvenlik açısından değerlendirme yapılmalı: - Ekipmanlar (tarayıcı, monitör) - İş akışı - Ekipmanların laboratuvarda yerleşimi ve personelin aletleri güvenli bir şekilde kullanması - Ekranların düzgün ayarlandığındna emin olunmalı [^2] [^3] [^4]
+Sağlık ve güvenlik açısından değerlendirme yapılmalı:
+
+-   Ekipmanlar (tarayıcı, monitör)
+-   İş akışı
+-   Ekipmanların laboratuvarda yerleşimi ve personelin aletleri güvenli bir şekilde kullanması
+-   Ekranların düzgün ayarlandığındna emin olunmalı [^2] [^3] [^4]
 
 [^2]: Ergonomi, ışık ayarı, ekran kullanımı, mouse kullanımı
 
@@ -221,11 +228,22 @@ Mesela;
 
 ## Validasyon ve Eğitim
 
-Anlamlı bir eğitim ve validasyon sonrası: - Patologlar kendi kaabiliyet ve sınırlarının farkında olur - Patologlar yazılım ve donanıma aşinadır. Performans sorunlarını farkedebilir ve iletebilirler. - Laboratuvarda dijital patoloji sistemi konusunda tüm departmanda ortak bir anlayış ve bilinç gelişir. - Laboratuvar, dijital patolojiyi kullanarak çıktı, iş akışı ve iş ortamını geliştirecek yeni yöntemleri geliştirebilir.
+Anlamlı bir eğitim ve validasyon sonrasında:
+
+-   Patologlar kendi kaabiliyet ve sınırlarının farkında olur.
+-   Patologlar yazılım ve donanıma aşinadır.
+  - Performans sorunlarını farkedebilir ve iletebilirler.
+- Laboratuvarda dijital patoloji sistemi konusunda tüm departmanda ortak bir anlayış ve bilinç gelişir.
+- Laboratuvar, dijital patolojiyi kullanarak çıktı, iş akışı ve iş ortamını geliştirecek yeni yöntemleri geliştirebilir.
 
 ## Validasyon
 
-RCPath göre validasyon süreci: - bireyseldir - gerçek rutin şartlarında yapılır - iç ve dış gözlemcileri tatmin edecek nitelikte olmalıdır - klinik etkinliğin sağlanabildiği kalitede olmalıdır
+RCPath göre validasyon süreci:
+
+-   bireyseldir
+-   gerçek rutin şartlarında yapılır
+-   iç ve dış gözlemcileri tatmin edecek nitelikte olmalıdır
+-   klinik etkinliğin sağlanabildiği kalitede olmalıdır
 
 ## Validasyon 2
 
@@ -240,13 +258,33 @@ RCPath göre validasyon süreci: - bireyseldir - gerçek rutin şartlarında yap
 
 ## Patologları akreditasyona hazırlamak
 
-Patologların kendi dökümanlarına erişimi olmalı. - Masaüstündeki bir kısayolla ulaşabilmeli. - Kendi eğitim dökümanları - Kendi validasyon dökümanları - Gerekli standart uygulamalar - Yazılımlar için kılavuzlar
+Patologların kendi dökümanlarına erişimi olmalı:
 
-## Patologları akreditasyona hazırlamak 2
+-   Masaüstündeki bir kısayolla ulaşabilmeli.
+-   Kendi eğitim dökümanları
+-   Kendi validasyon dökümanları
+-   Gerekli standart uygulamalar
+-   Yazılımlar için kılavuzlar
 
-Patologlar denetimciye: - dijital patoloji ile bir vakayı nasıl rapor ettiğini gösterebilmeli - dijital preparattaki sorunları nasıl tespit ettiğni ve bu sorunları nasıl çözdüğünü gösterebilmeli - "odak sorunu olan bir vakayı nasıl tespit ediyori bu durumda ne yapıyor" - "yeniden mi taratıyor, cam mı istiyor" - validasyon sürecindeki deneyimlerini ve profesyonel gelişim süreçlerini anlatabilmelidir. - dijital raporlama sürecini nasıl sağlıklı yürüttüğünü anlatabilmelidir - gerekli dökümanlardan haberdar olduğunu ve ihtiyaç halinde bunlara nasıl ulaşabildiğini göstermelidir. - görüntülerle ilgili geri bildirimi nasıl yaptığını gösterebilmelidir. - Suboptimal görüntüler tanıya engel olsun olmasın geri bildirim ile laboratuvara iletilmelidir. - ekran risk değerlendirmesini nasıl yaptığını gösterebilmelidir - validasyon döküman/sertifikası - validasyon/eğitim için katıldığı toplantıların belgeleri - Özet validasyon istatistikleri
+## Patologları akreditasyona hazırlamak 2 {.scrollable}
 
-## Akreditasyon sonrasında izlem
+Patologlar denetimciye:
+
+-   dijital patoloji ile bir vakayı nasıl rapor ettiğini gösterebilmeli
+-   dijital preparattaki sorunları nasıl tespit ettiğni ve bu sorunları nasıl çözdüğünü gösterebilmeli
+    -   "odak sorunu olan bir vakayı nasıl tespit ediyori bu durumda ne yapıyor"
+    -   "yeniden mi taratıyor, cam mı istiyor"
+-   validasyon sürecindeki deneyimlerini ve profesyonel gelişim süreçlerini anlatabilmelidir.
+-   dijital raporlama sürecini nasıl sağlıklı yürüttüğünü anlatabilmelidir.
+-   gerekli dökümanlardan haberdar olduğunu ve ihtiyaç halinde bunlara nasıl ulaşabildiğini göstermelidir.
+-   görüntülerle ilgili geri bildirimi nasıl yaptığını gösterebilmelidir.
+  -   Suboptimal görüntüler tanıya engel olsun olmasın geri bildirim ile laboratuvara iletilmelidir.
+-   ekran risk değerlendirmesini nasıl yaptığını gösterebilmelidir
+-   validasyon döküman/sertifikası
+-   validasyon/eğitim için katıldığı toplantıların belgeleri
+-   Özet validasyon istatistikleri
+
+# Akreditasyon sonrasında izlem
 
 -   Akredite olduk diye hemen boşlamayın
 -   Tarama sorunlarını (artefakt, odaklanmmaış, ...) kaydetmeye devam edin
