@@ -222,7 +222,7 @@ Mesela;
 
 -   Dijital ölçümlerin (cerrahi sınıra uzaklık, Breslow gibi) patologlarsa doğru yapılmasını sağlamak için patologlara, belli bir vaka grubunda, belli periyotlarla, mikroskop ve dijital ölçümler yaptırılmalı. Gözlemciler arası ve gözlemci içi farklılıklar takip edilmelidir.
 
-[^5]: Bende bir kalibrasyon preparatı var. Onu tarayıp ölçüm yapacağım
+[^5]: Bende bir kalibrasyon preparatı var. Onu taradım. Erişim numarası: `lam_kalibrasyon_at2` ve `lam_kalibrasyon_kfbio` 
 
 # Klinik ve Tanı İtibariyle Değerlendirme
 
@@ -253,7 +253,7 @@ RCPath göre validasyon süreci:
 
 -   Validasyon metodu ne olursa olsun patolog bunu izah edebilmeli.
 -   Kendi limitlerini ve zorlandığı durumlarda ne yaptığını söyleyebilmeli.
-    -   "displazide zorlanıyorum, Barrett şüpheli vakalarda mutalak cama da bakarım"
+    -   "displazide zorlanıyorum, Barrett şüpheli vakalarda mutlaka cama da bakarım"
     -   "mikroorganizma şüphem varsa mutlaka özel boyalara mikroskopta bakarım"
 
 ## Patologları akreditasyona hazırlamak
@@ -272,7 +272,7 @@ Patologlar denetimciye:
 
 -   dijital patoloji ile bir vakayı nasıl rapor ettiğini gösterebilmeli
 -   dijital preparattaki sorunları nasıl tespit ettiğni ve bu sorunları nasıl çözdüğünü gösterebilmeli
-    -   "odak sorunu olan bir vakayı nasıl tespit ediyori bu durumda ne yapıyor"
+    -   "odak sorunu olan bir vakayı nasıl tespit ediyor bu durumda ne yapıyor"
     -   "yeniden mi taratıyor, cam mı istiyor"
 -   validasyon sürecindeki deneyimlerini ve profesyonel gelişim süreçlerini anlatabilmelidir.
 -   dijital raporlama sürecini nasıl sağlıklı yürüttüğünü anlatabilmelidir.
@@ -287,6 +287,6 @@ Patologlar denetimciye:
 # Akreditasyon sonrasında izlem
 
 -   Akredite olduk diye hemen boşlamayın
--   Tarama sorunlarını (artefakt, odaklanmmaış, ...) kaydetmeye devam edin
+-   Tarama sorunlarını (artefakt, odaklanmamış, ...) kaydetmeye devam edin
 -   Cam ihtiyacının yüzdesini tespite devam edin
--   arşivden rastgele seçilen vakaların yeniden değerlendirilmesi (6 ay, yıllık)
+-   Arşivden rastgele seçilen vakaların yeniden değerlendirilmesi (6 ay, yıllık)
