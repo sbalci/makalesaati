@@ -62,7 +62,7 @@ Journal of Clinical Pathology 2019;72:663-668.
 ## Genel Prensipler 2
 
 -   Süreç stresli, gergin olabilir
--   Dijital patoloji yeni bir basamak olduğundna nasıl denetleneceğinin belirsizliği var
+-   Dijital patoloji yeni bir basamak olduğundan nasıl denetleneceğinin belirsizliği var
 -   Laboratuvar ve patologlardan akreditasyon süreci için kilit kişiler belirlenmeli [^1]
 -   Planlama ve hazırlıkların takibi önemli
 
